@@ -1,16 +1,3 @@
 {
-  "streams": [
-    {
-      "title": "stream2",
-      "description": "desc2",
-      "userId": "116429741326715308598",
-      "id": 15
-    },
-    {
-      "title": "new stream",
-      "description": "newnew",
-      "userId": "116429741326715308598",
-      "id": 16
-    }
-  ]
+  "streams": []
 }
